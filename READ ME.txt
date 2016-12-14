@@ -1,0 +1,5 @@
+1. Install node.
+2. Install express js
+3. Open terminal and go to path
+4. run node js command (node app.js) hit enter key
+5. Open browser and tyep URL as "http://localhost:8000/Sipcall.html".
